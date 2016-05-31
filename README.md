@@ -6,55 +6,31 @@ Comprehensive list of software I install on a clean machine (mostly for my own r
 ## Productivity
 
 * 1Password
-* Alfred 2
 * Bartender
-* Colloquy
 * Divvy
 * Dropbox
-* Fantastical
-* Flint (Campfire)
-* Fluid
-* Google Chrome Canary
-* iPhoto
+* Google Chrome
 * iStat Menus 3
 * iTunes
 * Keynote
 * Messages
-* NetNewsWire
 * Numbers
-* OmniGraffle
+* __Omnifocus__
 * Pages
-* Safari
+* Pocket
+* Reeder
 * Screenflow
-* Skitch
 * Skype
 * Slack
-* SuperDuper!
 * Tweetbot
-
-## Fluid Apps
-
-* Basecamp
-* Trello
+* Ulysses
 
 ## Development & Design
 
-* [GitHub for Mac]()
-* [Homebrew]()
-* [iTerm 2]()
-* Pixelmator
-* [Postgres.app]()
-* Querious
-* [Sketch]()
-* [Sublime Text 3]()
-* [Vagrant](http://vagrantup.com)
-* [VMware Fusion]()
+* Atom
+* Docker for Mac Beta
+* Homebrew
+* Postico
+* Postgres.app
+* Sketch
 * Xcode
-
-## Homebrew
-
-* MySQL
-
-## Sublime Text 3
-
-* Package Control
